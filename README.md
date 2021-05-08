@@ -1,8 +1,5 @@
 
 ### I'm [Abraham Obed](www.defencify.ml) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ofceab&label=Views&color=blue&style=plastic" alt="ofceab" /> </p>
-<br/>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 - 🔭 I’m currently working on some ideas

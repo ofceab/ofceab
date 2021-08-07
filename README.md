@@ -9,6 +9,6 @@
   -  and much more guys !!
 - 👯 I had a litle [youtube](https://www.youtube.com/channel/UC2jf4JoAgGR4eaFYlOFaYUA) channel where I share flutter tutorial in French, Want to collaborate ? I'm happy then, just contact [me](flutternow1963@gmail.com)
 - 💬 Like know new technology, so message me to put me on update 😄
-- ⚡ I'm very busy currently, but I have time for those who have time for me
+- ⚡ I'm very busy currently
 
 [![GitHub Abraham Obed](https://img.shields.io/github/followers/ofceab?label=follow&style=social)](https://github.com/ofceab)
